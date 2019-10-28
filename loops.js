@@ -5,6 +5,7 @@ function forLoop(array) {
     }else{
       return "I am ${} strange loops."
     }
+  }
 }
 
 function whileLoop(n) {
